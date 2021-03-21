@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/j%C3%A9ssica-zaparolli-53842b157/)](https://www.linkedin.com/in/j%C3%A9ssica-zaparolli-53842b157/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:j.zaparolli.arq@gmail.com)](mailto:j.zaparolli.arq@gmail.com)
